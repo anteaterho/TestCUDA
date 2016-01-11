@@ -1,0 +1,9 @@
+c:\Users\antea_000\documents\visual studio 2013\Projects\TestCUDA\CsharpApp\bin\Release\CsharpApp.exe.config
+c:\Users\antea_000\documents\visual studio 2013\Projects\TestCUDA\CsharpApp\bin\Release\CsharpApp.exe
+c:\Users\antea_000\documents\visual studio 2013\Projects\TestCUDA\CsharpApp\bin\Release\CsharpApp.pdb
+c:\Users\antea_000\documents\visual studio 2013\Projects\TestCUDA\CsharpApp\obj\Release\CsharpApp.csprojResolveAssemblyReference.cache
+c:\Users\antea_000\documents\visual studio 2013\Projects\TestCUDA\CsharpApp\obj\Release\CsharpApp.Form1.resources
+c:\Users\antea_000\documents\visual studio 2013\Projects\TestCUDA\CsharpApp\obj\Release\CsharpApp.Properties.Resources.resources
+c:\Users\antea_000\documents\visual studio 2013\Projects\TestCUDA\CsharpApp\obj\Release\CsharpApp.csproj.GenerateResource.Cache
+c:\Users\antea_000\documents\visual studio 2013\Projects\TestCUDA\CsharpApp\obj\Release\CsharpApp.exe
+c:\Users\antea_000\documents\visual studio 2013\Projects\TestCUDA\CsharpApp\obj\Release\CsharpApp.pdb
